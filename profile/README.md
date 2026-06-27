@@ -32,7 +32,7 @@ Some projects may also include Korean documentation.
 
 ## About the Name
 
-`mabyko` comes from “made by korean.”  
+`mabyko` comes from “made by koreans.”  
 It reflects where we started, not a boundary around who can join or use what we build.
 
 ## Links
